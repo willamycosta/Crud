@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Willame Costa de Oliveira",
+      "email": "willamycostatw@gmail.com",
+      "fone": "(85) 9 8504-9577",
+      "id": 1
+    },
+    {
+      "name": "Tayane Agostinho",
+      "email": "tayane.agostinho@gmail.com",
+      "fone": "(85) 9 8553-0619",
+      "id": 2
+    },
+    {
+      "name": "Tew trufas",
+      "email": "tewtrufas@hotmail.com",
+      "fone": "(85) 9 8504-9577",
+      "id": 3
+    },
+    {
+      "name": "Willame Costa de Oliveira",
+      "email": "willamycosta@hotmail.com",
+      "fone": "85985049577",
+      "id": 4
+    },
+    {
+      "name": "Tayane Agostinho",
+      "email": "tayane.agostinho@gmail.com",
+      "fone": "85985049577",
+      "id": 5
+    }
+  ]
+}
